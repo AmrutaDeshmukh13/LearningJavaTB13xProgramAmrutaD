@@ -8,6 +8,6 @@ public class Lab148_SB {
         sb.delete(5,16); // Delete the substring
         System.out.println(sb);
         sb.replace(0, 4, "C++");
-        System.out.println(sb);
+        System.out.println(sb);//comment
     }
 }
