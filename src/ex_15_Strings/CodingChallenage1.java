@@ -2,6 +2,7 @@ package ex_15_Strings;
 
 public class CodingChallenage1 {
     public static void main(String[] args) {
+        //string functions
         String s="Hello World";
         int len=s.length();
         char c=s.charAt(0);
