@@ -8,5 +8,7 @@ public class CodingChallenage2 {
         System.out.println("equls: "+string1.equals(string2)+", equalsIgnoreCase(): "+string1.equalsIgnoreCase(string2)+", compareTo(): " +string1.compareTo(string2));
 
 
+        //Output :- equls: false, equalsIgnoreCase(): true, compareTo(): -32
+
     }
 }
