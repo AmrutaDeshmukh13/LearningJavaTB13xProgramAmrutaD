@@ -5,6 +5,7 @@ public enum Locators {
     page_input_password("#login-password"),
     page_button("#btn");
 
+    //new push
     private String locators;
 
     Locators(String locators){
